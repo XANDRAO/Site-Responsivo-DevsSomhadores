@@ -26,7 +26,7 @@
                     <button>Cadastre-se</button>
                </ul>
                 <div class="menu-icon">
-                    <img src="imagens/menu.png">
+                    <img src="https://user-images.githubusercontent.com/100946873/190888470-2f245c25-31e3-4367-98a5-1ec5846db165.png">
                 </div>
           </nav>
           <main>
@@ -52,7 +52,7 @@
             </div>
 
             <div class="img-bx">
-                <img src="imagens/jornada-marketing.png">
+                <img src="jornada-marketing](https://user-images.githubusercontent.com/100946873/190888474-fe75411f-a7e3-4855-b7c4-0401ac2b4ebb.png">
             </div>
           </main>
      </div>
