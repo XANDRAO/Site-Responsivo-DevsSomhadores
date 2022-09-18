@@ -52,7 +52,7 @@
             </div>
 
             <div class="img-bx">
-                <img src="jornada-marketing](https://user-images.githubusercontent.com/100946873/190888474-fe75411f-a7e3-4855-b7c4-0401ac2b4ebb.png">
+                <img src="https://user-images.githubusercontent.com/100946873/190888474-fe75411f-a7e3-4855-b7c4-0401ac2b4ebb.png">
             </div>
           </main>
      </div>
