@@ -170,12 +170,5 @@ main{
         justify-content: center;
 
     }
-}
-var menu = ducument.querySelector('nav ul');
-var menuBar = document.querySelector('nav .menu-icon');
-var iconMenu = document.querySelector('nav .menu-icon img');
 
-menuBar.addEventListener('click',function(){
-     menu.classList.toggle('active');
-});
 
